@@ -1,25 +1,11 @@
-###             Hi there 👋
+### 
+
+<img align="middel" src="https://github-readme-stats.vercel.app/api?username=wamawama&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />  
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wamawama&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!--
-**WAMAWAMA/WAMAWAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Languages and Tools:
-
 
 <img align="left" alt="torch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
