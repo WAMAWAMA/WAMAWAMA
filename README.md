@@ -18,5 +18,6 @@
 <img align="left" alt="docker"  title="docker" width="35px" src="https://skillicons.dev/icons?i=docker&theme=light" />
 <img align="left" alt="Git"  title="Git" width="35px" src="https://skillicons.dev/icons?i=git&theme=light" />
 <img align="left" alt="GitHub"  title="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
+<img align="left" alt="QGIS"  title="QGIS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" />
+<img align="left" alt="MITK"  title="MITK" width="35px" src="https://avatars.githubusercontent.com/u/793409?s=200&v=4" />
+<img align="left" alt="ITK-snap"  title="ITK-snap" width="35px" src="https://pbs.twimg.com/profile_images/1139148244397592576/3MnJzx6w_400x400.png" />
