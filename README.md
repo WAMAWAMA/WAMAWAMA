@@ -23,7 +23,7 @@
 <img align="left" alt="MITK"  title="MITK" width="25px" src="https://avatars.githubusercontent.com/u/793409?s=200&v=4" />
 <img align="left" alt="ITK-snap"  title="ITK-snap" width="25px" src="https://pbs.twimg.com/profile_images/1139148244397592576/3MnJzx6w_400x400.png" />  
 
-***
+
 
 ### UI/UX design  
 
