@@ -1,7 +1,9 @@
 
 ###
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> 📫: wmy19970215@gmail.com
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> 
 
+ - Mail: wmy19970215@gmail.com
+ - Google Scholar: https://scholar.google.com/citations?user=MCMt9okAAAAJ&hl
 
 
 <img align="middel" src="https://github-readme-stats.vercel.app/api?username=wamawama&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />  
